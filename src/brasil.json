@@ -1,0 +1,66 @@
+{
+    "brasil": [
+        {
+            "regioes":"NORTE, NORDESTE, CENTRO-OESTE, SUDESTE, SUL",
+            "populacaototal": "213 Milhoes",
+            "eleitores": "156.454 Milhoes",
+            "populacaomasculina": "47.3%",
+            "populacaofeminina": "52.65%"
+        },
+        {
+            "regiao": "NORTE",
+            "populaçaototal": "18,9 M",
+            "eleitores": "12.516.320 M",
+            "populacaomasculina": "67,3%",
+            "populacaofeminina": "32,7"
+        },
+        {
+            "regiao": "NORDESTE",
+            "populaçaototal": "57,7 M",
+            "eleitores": "42.243 M",
+            "populacaomasculina": "61,1%",
+            "populacaofeminina": "38,9"
+        },
+        {
+            "regiao": "CENTRO-OESTE",
+            "populaçaototal": "16,7 M",
+            "eleitores": "11 M",
+            "populacaomasculina": "59,5%",
+            "populacaofeminina": "40,5"   
+        },
+        {
+            "regiao": "SUDESTE",
+            "populaçaototal": "89 M",
+            "eleitores": "67 M",
+            "populacaomasculina": "53,6%",
+            "populacaofeminina": "46,4"
+        },
+        {
+            "regiao": "SUL",
+            "populaçaototal": "30 M,4",
+            "eleitores": "23 M",
+            "populacaomasculina": "53,5%",
+            "populacaofeminina": "46,5"
+        }
+    ],
+    "eleitores":[
+        {
+           "idade": {
+               "16-24": "13,74%",
+               "25-44": "40,72%",
+               "45-69": "36,03%",
+               "70-100": "9,52%"
+           },
+           "grau-de-escolaridade": {
+            "Ens-Med-Completo": "26,31%",
+            "Ens-Med-Incompleto": "16,65%",
+            "Ens-Fun-Completo": "6,52%",
+            "Ens-Fun-Incompleto": "22,97%",
+            "Ens-Sup-Completo": "10,95%",
+            "Ens-Sup-Incompleto": "5,38%",
+            "Analfabeto": "4,05%",
+            "Le-e-escreve": "7,16%"
+        }
+        }
+    ]
+}
